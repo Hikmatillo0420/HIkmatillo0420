@@ -4,9 +4,8 @@
 
 
 #  About Me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYwNHQ0ZDh5ODNzbnB1YjhzcXJ0Y2l5Y3psNHRjcjQ1OTVuMGptcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif" width="35" height="45"/>
- I'm Hikmatillo.
+ <h1>I'm Hikmatillo.<h1/>
 Python developer at xcdm.ai company<br>
-👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
 
 <img src="https://github.com/user-attachments/assets/ea9d69d8-9750-4b7f-9ccd-418666d94195" width="700" height="300" alt="tenor">
 
