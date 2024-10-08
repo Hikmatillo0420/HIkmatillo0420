@@ -15,7 +15,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://hikmatillodev.t.me/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmatillo-dev)
   [![Gmail](https://img.shields.io/badge/email@oktamov.uz-%230077B5.svg?logo=google&logoColor=white)](mailto:hikmatilloxon571@gmail.com)
-</span>
+</span> 
 
 
  </br>
