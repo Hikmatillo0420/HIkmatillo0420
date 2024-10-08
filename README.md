@@ -8,7 +8,7 @@
 Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
 
-![shrek-shrek-meme](https://github.com/user-attachments/assets/b7f47fb3-2009-4c64-b4b4-45185eb76e0c)
+<iframe src="https://giphy.com/embed/LPn77YyDIqfhm" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LPn77YyDIqfhm">via GIPHY</a></p>
 
 
 
