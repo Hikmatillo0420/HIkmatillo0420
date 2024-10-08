@@ -1,19 +1,15 @@
 <h2>I'm Hikmatillo. Python developer<br><h2/>
 
 
-
+</br>
 <img src="https://github.com/user-attachments/assets/ea9d69d8-9750-4b7f-9ccd-418666d94195" width="800" height="300" alt="tenor">
 
-
+</br>
 
 ## 🌐 Socials:
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://hikmatillodev.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmatillo-dev)  [![Gmail](https://img.shields.io/badge/email@oktamov.uz-%230077B5.svg?logo=google&logoColor=white)](mailto:hikmatilloxon571@gmail.com)
-
-![Telegram](path_to_your_image/telegram_badge.png)
-![LinkedIn](path_to_your_image/linkedin_badge.png)
-![Gmail](path_to_your_image/gmail_badge.png)
 
 
 
@@ -58,7 +54,7 @@
 
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{oktamov}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{hikmatillo0420}/count.svg"/>
 </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
