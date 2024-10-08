@@ -2,6 +2,7 @@
 
 
 
+<img height="120" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
  <h2>I'm Hikmatillo. Python developer<br><h2/>
 
