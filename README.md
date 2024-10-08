@@ -8,9 +8,9 @@
 Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
 
+<img src="https://github.com/user-attachments/assets/a32f8845-a08b-4c58-bd35-40422706173d" width="30" height="40"/>:
 
 
-https://github.com/user-attachments/assets/a32f8845-a08b-4c58-bd35-40422706173d
 
 
 
