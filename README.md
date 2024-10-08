@@ -6,7 +6,7 @@
  <h2>I'm Hikmatillo. Python developer<br><h2/>
 
 
-<img src="https://github.com/user-attachments/assets/ea9d69d8-9750-4b7f-9ccd-418666d94195" width="700" height="300" alt="tenor">
+<img src="https://github.com/user-attachments/assets/ea9d69d8-9750-4b7f-9ccd-418666d94195" width="800" height="300" alt="tenor">
 
 
 ## 🌐 Socials:
