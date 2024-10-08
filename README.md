@@ -19,10 +19,6 @@ Python developer at xcdm.ai company<br>
 
  </br>
 <!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/oktamov/oktamov/blob/main/oktamov.pdf) -->
-[sticker.webm](https://github.com/user-attachments/assets/a4c704d8-aa00-4fc7-82b8-f77ceeb57b42)
-
-
-
 
 # Technical Skills
 
