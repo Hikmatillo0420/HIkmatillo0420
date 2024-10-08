@@ -10,6 +10,7 @@ Python developer at xcdm.ai company<br>
 
 <img src="https://tenor.com/view/toji-fushiguro-jujusukaisen-toji-vs-gojo-gif-16643936677820346590" width="100" height="100"/>
 
+![tenor](https://github.com/user-attachments/assets/ea9d69d8-9750-4b7f-9ccd-418666d94195)
 
 
 
