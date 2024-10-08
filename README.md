@@ -4,8 +4,8 @@
 
 
 #  About Me <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>:
- I'm Hikmatillo.[sticker.webm](https://github.com/user-attachments/assets/a4c704d8-aa00-4fc7-82b8-f77ceeb57b42)
-
+ I'm Hikmatillo.
+<img scr ="[sticker.webm](https://github.com/user-attachments/assets/a4c704d8-aa00-4fc7-82b8-f77ceeb57b42)">
 Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
 
