@@ -8,8 +8,7 @@
 Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
 
-<iframe src="https://giphy.com/embed/LPn77YyDIqfhm" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LPn77YyDIqfhm">via GIPHY</a></p>
-
+<img scr ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXg5dnlsemdhYzF0cWlldXdrc2dqMG90OWhvdnowMzF1d3N3ZnA4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif"/>
 
 
 
