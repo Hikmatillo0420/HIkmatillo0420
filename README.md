@@ -3,7 +3,7 @@
 
 
 
-#  About Me <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>:
+#  About Me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhjbGJnMjZkY3M0cnBsMmdtN3EzeWx2cXM2Z3MzdWNpamFsMGFrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="30" height="40"/>:
  I'm Hikmatillo.
 Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
