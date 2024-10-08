@@ -8,7 +8,7 @@
 Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
 
-[sticker.webm](https://github.com/user-attachments/assets/36e46c55-f57b-4809-9c98-70257c552e6d)
+![shrek-shrek-meme](https://github.com/user-attachments/assets/b7f47fb3-2009-4c64-b4b4-45185eb76e0c)
 
 
 
