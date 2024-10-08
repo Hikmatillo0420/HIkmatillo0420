@@ -8,7 +8,7 @@
 Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - Najot ta'lim Academy (2023-2024).<br>
 
-<img src="https://tenor.com/tZFzmZHT2vO.gif" width="100" height="100"/>
+<img src="https://tenor.com/view/toji-fushiguro-jujusukaisen-toji-vs-gojo-gif-16643936677820346590" width="100" height="100"/>
 
 
 
