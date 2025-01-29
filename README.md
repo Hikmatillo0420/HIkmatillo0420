@@ -1,6 +1,13 @@
 <h2>I'm Hikmatillo. Python developer<br><h2/>
 
 
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
+## 🌐 Socials:
+
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://ganiyevuz.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz)  [![Gmail](https://img.shields.io/badge/ganiyevuzb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ganiyevuzb@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
+
+
+
 </br>
 <img src="https://github.com/user-attachments/assets/ea9d69d8-9750-4b7f-9ccd-418666d94195" width="800" height="300" alt="tenor">
 
